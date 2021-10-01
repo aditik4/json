@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "Zootopia",
+      "year": 2016,
+      "cast": ["Ginnifer Goodwin", "Jason Bateman", "Idris Elba"],
+      "genres": ["Animated", "Adventure"]
+    },
+    {
+      "title": "Spider-Man: Homecoming",
+      "year": 2017,
+      "cast": ["Tom Holland","Michael Keaton","Zendaya","Donald Glover"],
+      "genres": ["Action", "Superhero"]
+    },
+    {
+      "title": "The Princess Diaries",
+      "year": 2001,
+      "cast": ["Julie Andrews","Anne Hathaway","Heather Matarazzo","Héctor Elizondo"],
+      "genres": ["Comedy"]
+    },
+    {
+      "title": "The Devil Wears Prada",
+      "year": 2006,
+      "cast": ["Meryl Streep","Anne Hathaway","Emily Blunt","Stanley Tucci","Adrian Grenier","Simon Baker"],
+      "genres": ["Comedy", "Drama"]
+    },
+    {
+      "title": "Alice Through the Looking Glass",
+      "year": 2016,
+      "cast": ["Mia Wasikowska","Johnny Depp","Helena Bonham Carter","Anne Hathaway"],
+      "genres": ["Comedy", "Drama"]
+    }
+  ]
+}
